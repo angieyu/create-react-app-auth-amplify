@@ -8,6 +8,8 @@ Amplify.configure(aws_exports);
 
 class App extends Component {
   render() {
+    console.log("window.ccp looks like");
+    console.log(window.ccp)
     return (
       <div className="App">
         <header className="App-header">
