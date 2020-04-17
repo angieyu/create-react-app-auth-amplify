@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "amazon-connect-chatjs": "^1.0.6",
+    "amazon-connect-streams": "^1.4.7",
     "aws-amplify": "^2.2.0",
     "aws-amplify-react": "^3.1.1",
     "bootstrap": "^4.4.1",
