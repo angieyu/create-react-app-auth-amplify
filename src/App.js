@@ -12,7 +12,7 @@ const region = "us-west-2";
 
 class App extends Component {
   render() {
-    console.log("window.ccp looks like");
+    console.log("window.ccp looks like 2");
     console.log(window.ccp)
     return (
       <CCP ccpUrl={ccpUrl} region={region}/>
